@@ -1,0 +1,39 @@
+/*
+* Theme Name: Asiq with Elementor
+* Theme URI: https://greenlifeit.com/
+* Author: Asiqur Rahman <asiq.webdev@gmail.com>
+* Author URI: https://asique.net/
+* Description: A minimal classic theme for use with page builders like Elementor.
+* Version: 1.0.0
+* License: GNU General Public License v2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Text Domain: asiq-with-elementor
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+html {
+	box-sizing: border-box;
+	font-size: 16px;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
